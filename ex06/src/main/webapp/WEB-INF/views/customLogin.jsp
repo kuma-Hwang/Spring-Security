@@ -20,6 +20,9 @@
 		<div>
 			<input type="password" name="password">
 		</div>
+		<div>
+			<input type="checkbox" name="remember-me"> 아이디 기억하기
+		</div>
 		
 		<div>
 			<input type="submit">
